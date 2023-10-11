@@ -1,4 +1,23 @@
 td, th {
 	border: 1px solid;
   }
-  
+h1 {
+  text-align: center;
+  border: 3px solid blue;
+}
+body {
+  color: white;
+  font-family: cochin;
+  background-color: black;
+}
+img {
+  max-width: 75%;
+  height: auto;
+}
+h2 {
+  font-style: italic;
+  font-size: 15px;
+}
+p {
+  font-size: 20px;
+}
